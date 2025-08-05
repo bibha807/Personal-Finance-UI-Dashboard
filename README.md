@@ -76,6 +76,7 @@ To provide a **clear, real-time financial summary** showing income vs expenses, 
 - Highlighted **savings patterns** and allocations, encouraging strategic investment planning.  
 - Facilitated **time-based filtering** to analyze specific periods and improve personal finance review habits.
 
+Here's how the dashboard looks like: - ![Dashboard Preview](https://github.com/bibha807/Personal-Finance-UI-Dashboard/blob/main/DashBoard%20Preview.png)
 ---
 
 > 📎 Note: This dashboard is built using dummy data for demonstration purposes.
